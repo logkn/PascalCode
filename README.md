@@ -14,9 +14,9 @@ Terminal-based AI coding tool that can use any model that supports the OpenAI-st
 ## HOW TO USE
 
 ```
-npm install -g anon-kode
+npm install -g pascal-code
 cd your-project
-kode
+code
 ```
 
 You can use the onboarding to set up the model, or `/model`.
